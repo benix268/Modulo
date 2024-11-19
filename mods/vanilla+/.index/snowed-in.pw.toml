@@ -1,0 +1,16 @@
+filename = 'SnowedIn-0.1a.jar'
+name = 'Snowed In'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '14bb29a2613b7982d9f8ef435ec07a0c830952fc7e430dc3b256183a56f2b921d1fc44920ec2d597a31f3b098f0fc4523b91180dddd5466114b4896785524db0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jr28V8kk/versions/ZC0cTzxs/SnowedIn-0.1a.jar'
+
+[update.modrinth]
+mod-id = 'jr28V8kk'
+version = 'ZC0cTzxs'

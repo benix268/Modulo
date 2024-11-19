@@ -1,0 +1,36 @@
+filename = 'microdurability-0.4.0.jar'
+name = 'microDurability'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2f278287b9a50252b73682cec75ec605de6278484bb6affc5043a9394434a197c2f31dcf2d000842cd4ba4ff4e93764f1e550381436fd4df7076d99f6e0ce808'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JW3bGnLO/versions/VlmNAzmB/microdurability-0.4.0.jar'
+
+[update.modrinth]
+mod-id = 'JW3bGnLO'
+version = 'VlmNAzmB'

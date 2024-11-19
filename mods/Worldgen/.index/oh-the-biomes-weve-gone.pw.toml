@@ -1,0 +1,16 @@
+filename = 'Oh-The-Biomes-Weve-Gone-Fabric-1.4.3.jar'
+name = "Oh The Biomes We've Gone"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '37429e796496235bb572ba64dc47df6b6d12b1a5759fb5277235d8012576613f0b59da99b3ad773d10ab0428e5128e3a9d24089d3334b2a27d795ac9f02091b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NTi7d3Xc/versions/Gn7o6cKo/Oh-The-Biomes-Weve-Gone-Fabric-1.4.3.jar'
+
+[update.modrinth]
+mod-id = 'NTi7d3Xc'
+version = 'Gn7o6cKo'

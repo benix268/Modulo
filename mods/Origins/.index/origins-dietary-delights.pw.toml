@@ -1,0 +1,35 @@
+filename = 'origins-dietary-delights-1.8.1.jar'
+name = 'Origins: Dietary Delights'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6ace9f5348d17862d7ccedb2013a2b6d29dea3f28ab0f5afb0b9c307608eba41ac63c5e353ac2a5bbdc1fbb583f869cb0cc9965b4f2ed4d6a81700ed51702526'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BVkoXkly/versions/GU7CK3c5/origins-dietary-delights-1.8.1.jar'
+
+[update.modrinth]
+mod-id = 'BVkoXkly'
+version = 'GU7CK3c5'

@@ -1,0 +1,16 @@
+filename = 'WilderWild-3.0.7-mc1.20.1.jar'
+name = 'Wilder Wild'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd2328de2539e0ff19bfe652123562f31fe1a6d5ce62ed2de0f630e2ed6f70103d22984a9d70bdb24fa8f4faf00b35a34c6e12d5286cbf77e31a294e81bd36e21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AtHRJSUW/versions/vhAZw8EL/WilderWild-3.0.7-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'AtHRJSUW'
+version = 'vhAZw8EL'

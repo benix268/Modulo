@@ -1,0 +1,16 @@
+filename = 'weaponleveling-1.20.1-2.2.2-fabric.jar'
+name = "Lukas' Weapon Leveling"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fd96e97b46cedc806549731b3ef2e53ea34665146221d518cfee3df4d0214071acaabd46188cff0da7437e00d4bdfa076a1806da3696f10ca0520916294257f7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IuFgFiGE/versions/DV7y9ZUl/weaponleveling-1.20.1-2.2.2-fabric.jar'
+
+[update.modrinth]
+mod-id = 'IuFgFiGE'
+version = 'DV7y9ZUl'

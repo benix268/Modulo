@@ -1,0 +1,16 @@
+filename = 'mod_sets-1.10.4.jar'
+name = 'Mod Sets'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eb34bcc2d98c88b20c9f359f8f89bae2fb260caf71e60c1f793a70dc256ab058bf8b957977217e72133a81c67a741b2c433e5c682e0cf4d568214079dcbc58de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b313lC4Y/versions/8RlJKwgm/mod_sets-1.10.4.jar'
+
+[update.modrinth]
+mod-id = 'b313lC4Y'
+version = '8RlJKwgm'

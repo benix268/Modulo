@@ -1,0 +1,16 @@
+filename = 'moderate-loading-screen-1.4.2+1.20.1.jar'
+name = 'Mod-erate Loading Screen'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5557a6a36fafac82523ef3fc6c6b830005ba20fe1cdd8a6a0b44431157b2f2c2f293f6f8578b9e747b5a0264b52c57d5908442b25d26fa6c400a2e4416911405'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RCjGlCDj/versions/sefnXuKK/moderate-loading-screen-1.4.2%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'RCjGlCDj'
+version = 'sefnXuKK'

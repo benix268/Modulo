@@ -1,0 +1,16 @@
+filename = 'forgero-fabric-0.12.8+1.20.1.jar'
+name = 'Forgero'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c4ec9c282d2a9670e0f14131c26a88bd0e7bc991a75c8a2c71343a00673e7d7ed2afaa8d1214e75ccab3642993e341b9944ef55a8e3cd5f74aa53289084d0089'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wxKGvopS/versions/LFE5DAPx/forgero-fabric-0.12.8%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'wxKGvopS'
+version = 'LFE5DAPx'

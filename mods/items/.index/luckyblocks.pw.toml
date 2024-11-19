@@ -1,0 +1,16 @@
+filename = 'LuckyBlocks-1.4.jar'
+name = 'Lucky Blocks (Fabric)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '090c7b99b4e2b7292c4527eda46c42eea5e2d762ee6903c4f5f9e8b7b3a3f676f52735bef7e0190f11e986e70b3f2872583e877bf708932b04fea5e2ef843520'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1x4VJbG6/versions/QcvB87ub/LuckyBlocks-1.4.jar'
+
+[update.modrinth]
+mod-id = '1x4VJbG6'
+version = 'QcvB87ub'

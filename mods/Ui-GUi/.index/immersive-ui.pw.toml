@@ -1,0 +1,16 @@
+filename = 'ImmersiveUI-FABRIC-0.2.2.jar'
+name = 'Immersive UI'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'daa3ede768692ebe8ebe5b1ac85d712eb3a99d537da71ad822440eb31fc72bea4ea7b4f0a25d6b61da0ce09bb3b82236050c1f40fbd591ce9c466089fa569554'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9wv7LuMc/versions/KueLNRHA/ImmersiveUI-FABRIC-0.2.2.jar'
+
+[update.modrinth]
+mod-id = '9wv7LuMc'
+version = 'KueLNRHA'

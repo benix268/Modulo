@@ -1,0 +1,16 @@
+filename = 'originsumbrellas-1.5.6.jar'
+name = 'Origins: Umbrellas'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cafa6c05ac1c60726541655f046c9b9d1824c0142fb8952334172effb965d6a783eab9210ea389c21515180c21aee745d9a341dc5ac9e8b5de04acf0b8cc0a1a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nKWFvKt2/versions/j6mO4YuC/originsumbrellas-1.5.6.jar'
+
+[update.modrinth]
+mod-id = 'nKWFvKt2'
+version = 'j6mO4YuC'

@@ -1,0 +1,16 @@
+filename = 'DynamicBrightness-1.20-1.0.0.jar'
+name = 'Dynamic Brightness'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fbc92b120bdec187b3fefc019c1d9a52c6839cd24557f6e6a83c1c299d6827ecc14002944e804a7b71c71b811c5a1f7832690c134d5e062ef2fceca56275a50f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qTnNnvU0/versions/Iqcr2Ds2/DynamicBrightness-1.20-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'qTnNnvU0'
+version = 'Iqcr2Ds2'
