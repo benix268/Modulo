@@ -1,4 +1,4 @@
-<img src="Modulo-Logo.png"> # Modulo <img src="Modulo-Logo.png">
+<h1><img src="Modulo-Logo.png"> Modulo <img src="Modulo-Logo.png"></h1>
 
 Haii ^_^<p>
 this is my fancy-schmancy modpack that i have on github just because.<p>
